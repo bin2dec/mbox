@@ -1,3 +1,3 @@
 # mbox
 
-A module that are intended to help with mbox manipulations.
+A module that intended to help with mbox manipulations.
